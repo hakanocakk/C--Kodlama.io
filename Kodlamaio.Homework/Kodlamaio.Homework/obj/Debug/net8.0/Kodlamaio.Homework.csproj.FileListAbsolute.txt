@@ -1,0 +1,14 @@
+D:\Udemy Visual Studio Örnek Dosyalar\Kodlamaio.Homework\Kodlamaio.Homework\obj\Debug\net8.0\Kodlamaio.Homework.GeneratedMSBuildEditorConfig.editorconfig
+D:\Udemy Visual Studio Örnek Dosyalar\Kodlamaio.Homework\Kodlamaio.Homework\obj\Debug\net8.0\Kodlamaio.Homework.AssemblyInfoInputs.cache
+D:\Udemy Visual Studio Örnek Dosyalar\Kodlamaio.Homework\Kodlamaio.Homework\obj\Debug\net8.0\Kodlamaio.Homework.AssemblyInfo.cs
+D:\Udemy Visual Studio Örnek Dosyalar\Kodlamaio.Homework\Kodlamaio.Homework\obj\Debug\net8.0\Kodlamaio.Homework.csproj.CoreCompileInputs.cache
+D:\Udemy Visual Studio Örnek Dosyalar\Kodlamaio.Homework\Kodlamaio.Homework\bin\Debug\net8.0\Kodlamaio.Homework.exe
+D:\Udemy Visual Studio Örnek Dosyalar\Kodlamaio.Homework\Kodlamaio.Homework\bin\Debug\net8.0\Kodlamaio.Homework.deps.json
+D:\Udemy Visual Studio Örnek Dosyalar\Kodlamaio.Homework\Kodlamaio.Homework\bin\Debug\net8.0\Kodlamaio.Homework.runtimeconfig.json
+D:\Udemy Visual Studio Örnek Dosyalar\Kodlamaio.Homework\Kodlamaio.Homework\bin\Debug\net8.0\Kodlamaio.Homework.dll
+D:\Udemy Visual Studio Örnek Dosyalar\Kodlamaio.Homework\Kodlamaio.Homework\bin\Debug\net8.0\Kodlamaio.Homework.pdb
+D:\Udemy Visual Studio Örnek Dosyalar\Kodlamaio.Homework\Kodlamaio.Homework\obj\Debug\net8.0\Kodlamaio.Homework.dll
+D:\Udemy Visual Studio Örnek Dosyalar\Kodlamaio.Homework\Kodlamaio.Homework\obj\Debug\net8.0\refint\Kodlamaio.Homework.dll
+D:\Udemy Visual Studio Örnek Dosyalar\Kodlamaio.Homework\Kodlamaio.Homework\obj\Debug\net8.0\Kodlamaio.Homework.pdb
+D:\Udemy Visual Studio Örnek Dosyalar\Kodlamaio.Homework\Kodlamaio.Homework\obj\Debug\net8.0\Kodlamaio.Homework.genruntimeconfig.cache
+D:\Udemy Visual Studio Örnek Dosyalar\Kodlamaio.Homework\Kodlamaio.Homework\obj\Debug\net8.0\ref\Kodlamaio.Homework.dll
